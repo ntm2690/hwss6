@@ -1,0 +1,76 @@
+/* 1 */
+.dz1{
+    color:red;
+}
+/* 2 */
+.dz{
+    color: sandybrown;
+}
+/* 3 */
+.a1{
+    color:blue;
+}
+h2.a3{
+    color:blue
+}
+
+/* Text */
+/* div.text{
+    color: chartreuse;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+} */
+
+/* box model */
+/* 1. */
+div.box1{
+    background-color:yellow ;
+    border: 3px solid blue;
+    border-radius: 5px ;
+    border: 2px solid blue ;
+    padding: 25px ;
+  
+}
+/* 2. */
+div.box2{
+    /* padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 45px;
+    padding-bottom: 45px; */
+    padding: 45px 40px;
+}
+
+/* 3. */
+div.box3{
+    background:wheat;
+    border:1px solid black;
+    margin: 50px 60px 50px 40px;  
+}
+
+/* Display  */
+/* 1. */
+div.display1{
+    background: red;
+    display: inline;
+}
+
+/* 2. */
+#span1{
+    background: red;
+  }
+  #span2{
+    background:yellow;
+    display: inline-block;
+    width: 500px;
+  }
+  /* 3 */
+  span.sp1{
+    background: red;
+    display: block;
+  }
+  div.dv1{
+    background: blue;
+  }
+
